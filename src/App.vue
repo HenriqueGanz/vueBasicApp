@@ -6,8 +6,11 @@ import { RouterView } from 'vue-router'
   <div class="h-screen flex flex-col bg-gray-900 gap-2">
     <header class="bg-gray-800 w-full min-h-25 flex justify-center items-center">
       <nav>
-        <span class="font-bold text-xl sm:text-2xl text-white">
-          Welcome to a basic app made with Vue 3!
+        <h1 class="font-bold text-xl sm:text-2xl text-white">
+          Welcome to a basic app!
+        </h1>
+        <span class="text-sm text-green-500">
+          Made with Vue 3!
         </span>
       </nav>
     </header>
