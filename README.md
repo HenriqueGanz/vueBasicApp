@@ -32,6 +32,8 @@ npm run dev
 
 ### Compile and Minify for Production
 
+Use para buildar.
+
 ```sh
 npm run build
 ```
