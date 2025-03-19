@@ -9,7 +9,7 @@ import VoidMessage from '../components/VoidMessage.vue'
 
 import { ref, watch } from 'vue'
 import { useRoute } from 'vue-router'
-import * as api from '../api.js'
+import * as api from '../services/api.js'
 
 const route = useRoute()
 const loading = ref(false)
