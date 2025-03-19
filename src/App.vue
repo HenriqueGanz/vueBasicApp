@@ -10,7 +10,7 @@ import { RouterView } from 'vue-router'
           Welcome to a basic app!
         </h1>
         <span class="text-sm text-green-500">
-          Made with Vue 3!
+          Made with Vue 3.
         </span>
       </nav>
     </header>
