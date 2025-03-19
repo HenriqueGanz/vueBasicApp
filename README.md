@@ -17,9 +17,9 @@ See [Vite Configuration Reference](https://vite.dev/config/).
 Abra seu terminal e acesse sua pasta de preferência, após isso siga os comandos:
 
 ```sh
-git clone "https://github.com/HenriqueGanz/vuebasicapp.git"
+git clone "https://github.com/HenriqueGanz/vueBasicApp.git"
 npm install
-code . "irá abrir sua ide"
+code .
 ```
 
 ### Compile and Hot-Reload for Development
